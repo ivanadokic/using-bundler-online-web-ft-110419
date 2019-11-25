@@ -74,7 +74,7 @@ For example:
 
 ```ruby
 require 'mail'
-```
+```ruby 
 
 #### How to Add the Gem to Your Gemfile
 
